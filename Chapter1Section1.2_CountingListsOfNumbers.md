@@ -26,7 +26,7 @@
 
 [1.2.4] $37$
 
-[1.2.5] $71$ (wrong)
+[1.2.5] $71$ (wrong due to missed problem observation)
 
 [1.2.6] $21$
 
