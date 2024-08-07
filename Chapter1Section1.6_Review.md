@@ -1,12 +1,12 @@
 ## Challenge problems
 
-[1.29] $35$
+[1.29] $35$ (wrong due to missed problem observation)
 
 [1.30] $10$
 
-[1.31] $120$
+[1.31] $120$ (wrong due to arithmetic)
 
-[1.32] $8$8
+[1.32] $8
 
 [1.33] $5!$
 
